@@ -1,8 +1,5 @@
-streamlit
-tensorflow-cpu
+streamlit==1.25.0
+tensorflow==2.13.0
 numpy
-Pillow
 matplotlib
-seaborn
-scikit-learn
-
+Pillow
